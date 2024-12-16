@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'TT Runs Bold';
+  src: url('./TT-Runs-Trial-Bold-BF640004ca6508e.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
